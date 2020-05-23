@@ -73,7 +73,7 @@ def rise_time (t = None, step_resp = None):
             aux = np.flatnonzero ( step_resp >= val )
             tr = t [ aux[0] ]
             mod_tr = step_resp [ aux[0] ]
-            percent_tr = ( step_resp [aux[0]] - step_resp[-1] ) * 100
+            percent_tr = np.abs( ( step_resp [aux[0]] - step_resp[-1] ) * 100)
             
         
     return tr, mod_tr, percent_tr
