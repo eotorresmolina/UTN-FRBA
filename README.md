@@ -1,2 +1,2 @@
 # UTN-FRBA
-Archivos, scripts, código, simulaciones, etc... de la Carrera de Ingeniería Electrónica en la Universidad Tecnológica Nacional Facultad Regional Buenos Aires
+Archivos, scripts, código, simulaciones, etc... realizados en la Carrera de Ingeniería Electrónica de la Universidad Tecnológica Nacional Facultad Regional Buenos Aires
